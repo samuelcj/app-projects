@@ -1,3 +1,11 @@
 [submodule "java-gradle-apps"]
 	path = java-gradle-app
 	url = git@github.com:samuelcj/java-gradle-app.git
+
+[submodule "java-maven-apps"]
+        path = java-maven-app
+	url = git@github.com:samuelcj/java-maven-app.git
+
+[submodule "java-nodejs-apps"]
+        path = nodejs-app
+        url = git@github.com:samuelcj/nodejs-app.git
